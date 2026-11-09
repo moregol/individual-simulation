@@ -28,3 +28,15 @@ Ambos parametros diferentes: [link](https://colab.research.google.com/github/mor
 # Explicação dos Arquivos
 
 Todos os arquivos utilizados estão na pasta v5, abaixo está o que cada um representa para caso desejam testar individualmente.
+
+| Arquivo           | Explicação                                                           |
+|-------------------|----------------------------------------------------------------------|
+| IndividualV5.ork  | Arquivo do foguete do OpenRocket                                     |
+| drag_curve.csv    | Arquivo da curva de arrasto do OpenRocket                            |
+| poweron.csv       | Arquivo da curva de arrasto com power on do RASAero                  |
+| poweroff.csv      | Arquivo da curva de arrasto com power off do RASAero                 |
+| thrust_source.csv | Arquivo do motor do OpenRocket                                       |
+| nodiffsim.ipynb   | Arquivo da simulação com os mesmos parametros                        |
+| dragDiffSim.ipynb | Arquivo da simulação com diferença na drag curve usando a do RASAero |
+| EnvDiffSim.ipynb  | Arquivo da simulação com diferença no enviroment metereologico       |
+| dragEnvSim.ipynb  | Arquivo da simulação com diferença em ambos parametros.              |
