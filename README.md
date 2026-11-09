@@ -24,3 +24,7 @@ Diferença apenas no Env: [link](https://colab.research.google.com/github/morego
 Diferença apenas na Drag Curve: [link](https://colab.research.google.com/github/moregol/individual-simulation/blob/main/v5/dragDiffSim.ipynb)  - 424 metros de diferença - OrK: 4024m - RocketPY: 4444m
 
 Ambos parametros diferentes: [link](https://colab.research.google.com/github/moregol/individual-simulation/blob/main/v5/dragEnvSim.ipynb) - 452 metros de diferença - OrK: 4024m - RocketPY: 4476m
+
+# Explicação dos Arquivos
+
+Todos os arquivos utilizados estão na pasta v5, abaixo está o que cada um representa para caso desejam testar individualmente.
