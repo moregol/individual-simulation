@@ -7,7 +7,7 @@ O foguete foi criado no OpenRocket com todas suas peças sendo arbitrárias send
 Para ser comparado os resultados com o RocketPY, foi utilizada a biblioteca [Rocket Serializer](https://github.com/RocketPy-Team/RocketSerializer) gerando um notebook ja pronto com os foguetes e as peças.
 
 # Resultado 
-A principal diferenças de ambos é a drag curve(RASAero) e o fator enviroment, o que causou uma diferença final de 400 metros totais.
+A principal diferenças de ambos é a drag curve(RASAero) e o fator enviroment, o que causou uma diferença final de 450 metros totais.
 
 Entretanto, caso sejam mantidas o drag curve do OpenRocket e o enviroment padrão, a diferença cai para 3 metros totais.
 
