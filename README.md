@@ -17,10 +17,10 @@ Os notebooks estão abaixo para visualização dos resultados. (Não há necessi
 
 # Notebooks
 
-Sem diferença de parametro: [link](https://colab.research.google.com/github/moregol/individual-simulation/blob/main/v5/nodiffSim.ipynb)
+Sem diferença de parametro: [link](https://colab.research.google.com/github/moregol/individual-simulation/blob/main/v5/nodiffSim.ipynb) - 3 metros de diferença - OrK: 4024m - RocketPY: 4021m
 
-Diferença apenas no Env: [link](https://colab.research.google.com/github/moregol/individual-simulation/blob/main/v5/EnvDiffSim.ipynb)
+Diferença apenas no Env: [link](https://colab.research.google.com/github/moregol/individual-simulation/blob/main/v5/EnvDiffSim.ipynb) - 13 metros de diferença - OrK: 4024m - RocketPY: 4037m
 
-Diferença apenas na Drag Curve: [link](https://colab.research.google.com/github/moregol/individual-simulation/blob/main/v5/dragDiffSim.ipynb)
+Diferença apenas na Drag Curve: [link](https://colab.research.google.com/github/moregol/individual-simulation/blob/main/v5/dragDiffSim.ipynb)  - 424 metros de diferença - OrK: 4024m - RocketPY: 4444m
 
-Ambos parametros diferentes: [link](https://colab.research.google.com/github/moregol/individual-simulation/blob/main/v5/dragEnvSim.ipynb)
+Ambos parametros diferentes: [link](https://colab.research.google.com/github/moregol/individual-simulation/blob/main/v5/dragEnvSim.ipynb) - 452 metros de diferença - OrK: 4024m - RocketPY: 4476m
