@@ -2,7 +2,7 @@
 Simulação de foguetemodelismo a fim de comparar resultados númericos entre openrocket e rocketpy. A simulação foi feita utilizando um foguete criado no openrocket com um apogeu de 4024 metros.
 
 # Metodo
-O foguete foi criado no OpenRocket com todas suas peças sendo arbitrárias sendo o único ponto observado seu apogeu, contém uma estabilidade de 2.74.
+O foguete foi criado no OpenRocket com todas suas peças sendo arbitrárias sendo o único ponto observado seu apogeu e sua estabilidade, que contém o valor de 2.74.
 
 Para ser comparado os resultados com o RocketPY, foi utilizada a biblioteca [Rocket Serializer](https://github.com/RocketPy-Team/RocketSerializer) gerando um notebook ja pronto com os foguetes e as peças.
 
